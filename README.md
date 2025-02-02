@@ -1,5 +1,3 @@
-Here's a **README.md** file you can use for your GitHub repository:  
-
 ```md
 # Keylogger using `pynput`
 
